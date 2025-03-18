@@ -1,2 +1,3 @@
-# master-project1
-I need to do a 2 project leading up to my master thesis. This repository will serve as the code basis for  **Project 1**
+# Insert Project Name
+
+I need to do 2 projects leading up to my Master Thesis. This repository will serve as the code basis for  **Project 1**.
